@@ -178,8 +178,8 @@ func name1() {
         print("go")
     }
 }
-func go() {
-    
+func go123() {
+   print(123)
     
 }
 
