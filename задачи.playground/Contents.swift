@@ -178,7 +178,10 @@ func name1() {
         print("go")
     }
 }
-
+func go() {
+    
+    
+}
 
 
 
